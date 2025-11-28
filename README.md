@@ -30,7 +30,7 @@ Here are some of the visualizations included:
 
 🚀 How to Run
 - Clone the repo
-git clone https://github.com/yourusername/Movie-Data-Analysis-Visualization-using-Python.git
+git clone https://github.com/Lahu-Gholap/Python-Project/blob/main/Python%20project1%20(1).ipynb
 - Open Jupyter Notebook
 - Run Movie_Analysis.ipynb step by step
 - Explore and customize the visuals!
