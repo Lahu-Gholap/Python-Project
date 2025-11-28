@@ -28,7 +28,7 @@ Here are some of the visualizations included:
 - IMDb Rating Distribution
 - Rotten Tomatoes Score Distribution
 
-🚀 How to Run
+🚀 How to Run 
 - Clone the repo
 git clone https://github.com/Lahu-Gholap/Python-Project/blob/main/Python%20project1%20(1).ipynb
 
